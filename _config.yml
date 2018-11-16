@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Ocean"
 title_separator          : "-"
 name                     : &name "Ocean"
 description              : &description "personal description"
